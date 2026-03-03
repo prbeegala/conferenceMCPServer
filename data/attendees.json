@@ -1,0 +1,74 @@
+[
+  {
+    "id": "attendee-001",
+    "name": "Alex Thompson",
+    "company": "StartupTech",
+    "role": "CTO",
+    "interests": ["AI", "Cloud Architecture", "Serverless"],
+    "bio": "Building the next generation of AI-powered products",
+    "looking_for": "AI implementation strategies and cloud architecture patterns"
+  },
+  {
+    "id": "attendee-002",
+    "name": "Priya Sharma",
+    "company": "Enterprise Solutions Inc",
+    "role": "Senior Developer",
+    "interests": ["Kubernetes", "DevOps", "Container Orchestration"],
+    "bio": "Passionate about cloud-native development and container technologies",
+    "looking_for": "Best practices for Kubernetes in production"
+  },
+  {
+    "id": "attendee-003",
+    "name": "Michael Brown",
+    "company": "FinTech Corp",
+    "role": "Security Engineer",
+    "interests": ["Security", "Zero Trust", "Compliance"],
+    "bio": "Securing financial applications in the cloud",
+    "looking_for": "Zero Trust architecture implementation guidance"
+  },
+  {
+    "id": "attendee-004",
+    "name": "Sophie Laurent",
+    "company": "WebAgency",
+    "role": "Frontend Lead",
+    "interests": ["Web Development", "React", "Next.js", "UI/UX"],
+    "bio": "Creating beautiful and performant web experiences",
+    "looking_for": "Modern web frameworks and deployment strategies"
+  },
+  {
+    "id": "attendee-005",
+    "name": "Carlos Mendez",
+    "company": "DataCorp",
+    "role": "Data Engineer",
+    "interests": ["Data Engineering", "Analytics", "Azure Synapse"],
+    "bio": "Building scalable data pipelines for enterprise analytics",
+    "looking_for": "Data platform modernization approaches"
+  },
+  {
+    "id": "attendee-006",
+    "name": "Jennifer Lee",
+    "company": "CloudNative Co",
+    "role": "Platform Engineer",
+    "interests": ["Kubernetes", "Cloud Native", "Platform Engineering"],
+    "bio": "Designing developer platforms that scale",
+    "looking_for": "Platform engineering best practices"
+  },
+  {
+    "id": "attendee-007",
+    "name": "Ahmed Hassan",
+    "company": "AI Solutions",
+    "role": "ML Engineer",
+    "interests": ["Machine Learning", "AI", "Azure OpenAI"],
+    "bio": "Deploying production ML models at scale",
+    "looking_for": "MLOps and AI application patterns"
+  },
+  {
+    "id": "attendee-008",
+    "name": "Emma Wilson",
+    "company": "DevTools Inc",
+    "role": "Product Manager",
+    "interests": ["Developer Experience", "Serverless", "Cloud Services"],
+    "bio": "Building developer tools that developers love",
+    "looking_for": "Developer productivity insights"
+  }
+]

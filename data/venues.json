@@ -1,0 +1,64 @@
+[
+  {
+    "location": "Main Hall A",
+    "floor": 1,
+    "capacity": 500,
+    "amenities": ["Stage", "AV System", "WiFi", "Wheelchair Accessible"],
+    "map_url": "https://example.com/maps/main-hall-a",
+    "coordinates": { "x": 100, "y": 50 }
+  },
+  {
+    "location": "Main Hall B",
+    "floor": 1,
+    "capacity": 400,
+    "amenities": ["Stage", "AV System", "WiFi", "Wheelchair Accessible"],
+    "map_url": "https://example.com/maps/main-hall-b",
+    "coordinates": { "x": 300, "y": 50 }
+  },
+  {
+    "location": "Workshop Room 1",
+    "floor": 2,
+    "capacity": 100,
+    "amenities": ["Whiteboard", "Projector", "WiFi", "Power Outlets"],
+    "map_url": "https://example.com/maps/workshop-1",
+    "coordinates": { "x": 150, "y": 150 }
+  },
+  {
+    "location": "Workshop Room 2",
+    "floor": 2,
+    "capacity": 100,
+    "amenities": ["Whiteboard", "Projector", "WiFi", "Power Outlets"],
+    "map_url": "https://example.com/maps/workshop-2",
+    "coordinates": { "x": 250, "y": 150 }
+  },
+  {
+    "location": "Security Track Room",
+    "floor": 2,
+    "capacity": 150,
+    "amenities": ["AV System", "WiFi", "Wheelchair Accessible"],
+    "map_url": "https://example.com/maps/security-room",
+    "coordinates": { "x": 350, "y": 150 }
+  },
+  {
+    "location": "Registration Desk",
+    "floor": 1,
+    "description": "Main entrance registration and information",
+    "map_url": "https://example.com/maps/registration",
+    "coordinates": { "x": 50, "y": 25 }
+  },
+  {
+    "location": "Networking Lounge",
+    "floor": 1,
+    "description": "Casual networking space with refreshments",
+    "amenities": ["Seating", "Coffee Bar", "WiFi", "Charging Stations"],
+    "map_url": "https://example.com/maps/networking-lounge",
+    "coordinates": { "x": 200, "y": 100 }
+  },
+  {
+    "location": "Expo Hall",
+    "floor": 1,
+    "description": "Sponsor booths and exhibition area",
+    "map_url": "https://example.com/maps/expo-hall",
+    "coordinates": { "x": 400, "y": 75 }
+  }
+]

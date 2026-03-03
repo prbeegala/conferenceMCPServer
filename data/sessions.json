@@ -1,0 +1,74 @@
+[
+  {
+    "id": "session-001",
+    "title": "Building Scalable AI Applications with Azure",
+    "description": "Learn how to design and deploy enterprise-grade AI applications using Azure OpenAI, Azure AI Search, and other Azure AI services. This session covers architecture patterns, best practices, and real-world case studies.",
+    "speaker_ids": ["speaker-001", "speaker-002"],
+    "track": "AI & Machine Learning",
+    "time": "2026-05-15T09:00:00Z",
+    "duration_minutes": 60,
+    "room": "Main Hall A",
+    "level": "Intermediate",
+    "tags": ["Azure", "AI", "OpenAI", "Architecture"]
+  },
+  {
+    "id": "session-002",
+    "title": "Serverless Applications with Azure Functions",
+    "description": "Deep dive into Azure Functions and serverless computing patterns. Learn about triggers, bindings, Durable Functions, and how to build event-driven architectures that scale automatically.",
+    "speaker_ids": ["speaker-003"],
+    "track": "Cloud Native",
+    "time": "2026-05-15T10:30:00Z",
+    "duration_minutes": 45,
+    "room": "Workshop Room 1",
+    "level": "Beginner",
+    "tags": ["Azure", "Serverless", "Functions", "Event-Driven"]
+  },
+  {
+    "id": "session-003",
+    "title": "Container Orchestration with Kubernetes",
+    "description": "Master container orchestration using Azure Kubernetes Service (AKS). Topics include deployments, services, ingress, monitoring, and GitOps workflows with Flux.",
+    "speaker_ids": ["speaker-004", "speaker-005"],
+    "track": "DevOps & Infrastructure",
+    "time": "2026-05-15T13:00:00Z",
+    "duration_minutes": 75,
+    "room": "Main Hall B",
+    "level": "Advanced",
+    "tags": ["Kubernetes", "AKS", "Containers", "DevOps"]
+  },
+  {
+    "id": "session-004",
+    "title": "Securing Cloud Applications: Zero Trust Architecture",
+    "description": "Implement Zero Trust security principles in your cloud applications. Learn about Microsoft Entra ID, managed identities, Key Vault, and network security best practices.",
+    "speaker_ids": ["speaker-006"],
+    "track": "Security",
+    "time": "2026-05-15T14:30:00Z",
+    "duration_minutes": 60,
+    "room": "Security Track Room",
+    "level": "Intermediate",
+    "tags": ["Security", "Zero Trust", "Entra ID", "Azure"]
+  },
+  {
+    "id": "session-005",
+    "title": "Modern Web Development with Next.js and Azure",
+    "description": "Build and deploy modern web applications using Next.js, React, and Azure Static Web Apps. Covers SSR, SSG, API routes, and CI/CD pipelines.",
+    "speaker_ids": ["speaker-007"],
+    "track": "Web Development",
+    "time": "2026-05-16T09:00:00Z",
+    "duration_minutes": 90,
+    "room": "Workshop Room 2",
+    "level": "Intermediate",
+    "tags": ["Next.js", "React", "Azure", "Web Development"]
+  },
+  {
+    "id": "session-006",
+    "title": "Data Engineering at Scale with Azure Synapse",
+    "description": "Transform your data pipelines with Azure Synapse Analytics. Learn about data integration, Apache Spark pools, serverless SQL, and building modern data warehouses.",
+    "speaker_ids": ["speaker-008"],
+    "track": "Data & Analytics",
+    "time": "2026-05-16T11:00:00Z",
+    "duration_minutes": 60,
+    "room": "Main Hall A",
+    "level": "Advanced",
+    "tags": ["Data Engineering", "Synapse", "Analytics", "Azure"]
+  }
+]

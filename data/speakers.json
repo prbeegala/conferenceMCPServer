@@ -1,0 +1,106 @@
+[
+  {
+    "id": "speaker-001",
+    "name": "Dr. Sarah Chen",
+    "bio": "Dr. Sarah Chen is a Principal Cloud Architect at Microsoft with over 15 years of experience in AI and cloud computing. She specializes in designing scalable AI solutions and has published numerous papers on machine learning architectures.",
+    "title": "Principal Cloud Architect",
+    "company": "Microsoft",
+    "expertise": ["Azure AI", "Machine Learning", "Cloud Architecture", "OpenAI"],
+    "social": {
+      "twitter": "@sarahchen_ai",
+      "linkedin": "linkedin.com/in/sarahchen"
+    },
+    "photo_url": "https://example.com/photos/sarah-chen.jpg"
+  },
+  {
+    "id": "speaker-002",
+    "name": "Marcus Rodriguez",
+    "bio": "Marcus is a Senior Solutions Engineer helping enterprises build production-ready AI applications. He's passionate about developer experience and has contributed to several open-source AI projects.",
+    "title": "Senior Solutions Engineer",
+    "company": "Microsoft",
+    "expertise": ["Azure OpenAI", "Prompt Engineering", "Developer Tools", "MLOps"],
+    "social": {
+      "twitter": "@marcusrodriguez",
+      "linkedin": "linkedin.com/in/mrodriguez"
+    },
+    "photo_url": "https://example.com/photos/marcus-rodriguez.jpg"
+  },
+  {
+    "id": "speaker-003",
+    "name": "Emily Watson",
+    "bio": "Emily is a Cloud Developer Advocate specializing in serverless architectures. She creates educational content and speaks at conferences worldwide about event-driven design patterns.",
+    "title": "Cloud Developer Advocate",
+    "company": "Microsoft",
+    "expertise": ["Azure Functions", "Serverless", "Event-Driven Architecture", "Node.js"],
+    "social": {
+      "twitter": "@emilywatson_dev",
+      "linkedin": "linkedin.com/in/emilywatson"
+    },
+    "photo_url": "https://example.com/photos/emily-watson.jpg"
+  },
+  {
+    "id": "speaker-004",
+    "name": "Raj Patel",
+    "bio": "Raj is a Principal DevOps Engineer with deep expertise in Kubernetes and container orchestration. He's a CNCF Ambassador and contributes to the Kubernetes project.",
+    "title": "Principal DevOps Engineer",
+    "company": "TechCorp",
+    "expertise": ["Kubernetes", "AKS", "GitOps", "Cloud Native"],
+    "social": {
+      "twitter": "@rajpatel_k8s",
+      "linkedin": "linkedin.com/in/rajpatel"
+    },
+    "photo_url": "https://example.com/photos/raj-patel.jpg"
+  },
+  {
+    "id": "speaker-005",
+    "name": "Lisa Andersson",
+    "bio": "Lisa is a Staff Platform Engineer building large-scale container platforms. She's passionate about developer productivity and has implemented Kubernetes solutions for Fortune 500 companies.",
+    "title": "Staff Platform Engineer",
+    "company": "CloudScale Inc",
+    "expertise": ["Azure Kubernetes Service", "Platform Engineering", "CI/CD", "Monitoring"],
+    "social": {
+      "twitter": "@lisaandersson",
+      "linkedin": "linkedin.com/in/lisaandersson"
+    },
+    "photo_url": "https://example.com/photos/lisa-andersson.jpg"
+  },
+  {
+    "id": "speaker-006",
+    "name": "James Wilson",
+    "bio": "James is a Security Architect focused on cloud security and Zero Trust implementations. He advises organizations on securing their cloud infrastructure and applications.",
+    "title": "Security Architect",
+    "company": "SecureCloud Solutions",
+    "expertise": ["Zero Trust", "Cloud Security", "Identity & Access Management", "Compliance"],
+    "social": {
+      "twitter": "@jameswilson_sec",
+      "linkedin": "linkedin.com/in/jameswilson"
+    },
+    "photo_url": "https://example.com/photos/james-wilson.jpg"
+  },
+  {
+    "id": "speaker-007",
+    "name": "Olivia Martinez",
+    "bio": "Olivia is a Full Stack Engineer and Next.js enthusiast. She builds modern web applications and teaches web development through workshops and online courses.",
+    "title": "Full Stack Engineer",
+    "company": "WebDev Academy",
+    "expertise": ["Next.js", "React", "TypeScript", "Azure Static Web Apps"],
+    "social": {
+      "twitter": "@oliviamartinez",
+      "linkedin": "linkedin.com/in/oliviamartinez"
+    },
+    "photo_url": "https://example.com/photos/olivia-martinez.jpg"
+  },
+  {
+    "id": "speaker-008",
+    "name": "David Kim",
+    "bio": "David is a Principal Data Engineer with expertise in building modern data platforms. He's designed data architectures for enterprises processing petabytes of data daily.",
+    "title": "Principal Data Engineer",
+    "company": "DataScale Corp",
+    "expertise": ["Azure Synapse", "Data Engineering", "Apache Spark", "Data Warehousing"],
+    "social": {
+      "twitter": "@davidkim_data",
+      "linkedin": "linkedin.com/in/davidkim"
+    },
+    "photo_url": "https://example.com/photos/david-kim.jpg"
+  }
+]
